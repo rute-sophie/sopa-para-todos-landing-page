@@ -354,9 +354,9 @@ header
   transition: all 0.3s ease 0s;
 }
 
-.header-area .main-nav .left-logo {
-  height: 150px;
-  width: 150px;
+.header-area .left-logo {
+  height: 60px;
+  width: 60px;
 }
 
 
