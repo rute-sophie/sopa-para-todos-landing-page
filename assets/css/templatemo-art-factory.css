@@ -340,10 +340,8 @@ header
 
 .header-area .main-nav .logo {
   line-height: 80px;
-  height: 2px;
-  width: 2px;
   color: #fff;
-  font-size: 28px;
+  font-size: 22px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -353,12 +351,6 @@ header
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
-
-.header-area .left-logo {
-  height: 60px;
-  width: 60px;
-}
-
 
 .header-area .main-nav .nav {
   float: right;
